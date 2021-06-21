@@ -1,0 +1,4 @@
+#Mon Jun 21 00:41:28 IST 2021
+base.0=/Users/payelpaul/StudioProjects/recipe/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
